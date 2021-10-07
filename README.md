@@ -5,7 +5,7 @@ Description of Game:https://www.google.com/logos/2010/pacman10-i.html:
 Each dot eaten gives you a certain number of points and there are other ways you can increase your point total
 - Pacman can die by bumping into a ghost, which will cause it to one of its lives, or gain points by eating ghosts after consuming an energizer which is placed throughout the board.
 
-**The Rules and Objectives of the Game
+**The Rules and Objectives of the Game**
 - Pacman is controlled by the user up, down, left and right. Pacman can not move diagonally and is bounded by the game board. 
 - Pacman will continue to move in his current direction when no input is given and will stay idle when it bumps into a wall until an input is given
 - Pacman will have a certain number of lives entered by the user before the game begins
