@@ -42,8 +42,8 @@ that is a little slower than pacman's
 **Description of how we will Store the State**
 - Points will be stored in an integer variable
 - Lives will be stored in an integer variable
-- #Ghosts in play and in the box will be stored with a variable
+- Num Ghosts in play and in the box will be stored with a variable
 - Pacman's position will be stored with a x and y variable
 - A Ghosts direction of travel will be stored as a boolean (changes when pacman is energized)
-- If Pacman is energized or uses an orange fruit ability will be determines by a boolean
-- # of dots will be stored using an integer varaible
+- If Pacman is energized or uses an orange fruit ability will be determines by a boolean 
+- Number of dots will be stored using an integer varaible
