@@ -19,14 +19,14 @@ Each dot eaten gives you a certain number of points and there are other ways you
     - Red Fruit: Loose -100 points
     - Orange Fruit: Get x2 on all points when enabled
 
-**Controls of the Game
+**Controls of the Game**
 - Control Pacman with the left, right, up and down arrow keys
 - Pressing an arrow key will move pacman at a set speed, this speed will not increase based on how many times you press an arrow key
 - The player can press P to pause
 - The player can press X to enable the orange fruit
 - The game background will stay fixed
 
-**Which Components will be Animated
+**Which Components will be Animated**
 - The ghosts will be animated to move to different positions based on their color, the ghost will move at a constant speed 
 that is a little slower than pacman's
     - Blue ghosts will animate randomly
@@ -39,7 +39,7 @@ that is a little slower than pacman's
 - A "Game Over" Text will spawn once a win condition is met
 - "Level: x" text will spawn after every time pacman loses a life, where x is 0 + the lives it has lost
 
-**Description of how we will Store the State
+**Description of how we will Store the State**
 - Points will be stored in an integer variable
 - Lives will be stored in an integer variable
 - #Ghosts in play and in the box will be stored with a variable
